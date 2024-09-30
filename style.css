@@ -1,23 +1,21 @@
-
-
-.banner-img{
-    width: 400px;
-    height: 400px;
+.banner-img {
+  width: 400px;
+  height: 400px;
 }
+
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-  background-color: #198754; 
- 
-}
-.expert{
-    margin-top: 10px;
-    margin-bottom: 5px;
+  background-color: #198754;
 
-    width: 100px;
-    height: 35px;
-    border: 1px solid rgb(210, 195, 57);
-    background-color: rgb(146, 158, 148);
-    padding: 5px;
-    border-radius: 5px;
 }
 
+.expert {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  width: 100px;
+  height: 35px;
+  border: 1px solid rgb(210, 195, 57);
+  background-color: rgb(146, 158, 148);
+  padding: 5px;
+  border-radius: 5px;
+}
